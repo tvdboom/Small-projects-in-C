@@ -331,10 +331,10 @@ void leven::statistiek() { //doet 1000 generaties en slaat gegevens op file
 
 int main () {
 	cout << endl << endl << "Welkom! Dit programma stelt u in staat life te spelen.";
-	cout << endl << endl << "Dit programma is gemaakt door Lieke van Son ";
-	cout << "(studentnummer 1253786) en Marco Trueba van den Boom (studentnummer";
-	cout << " 1246984) aan de universiteit Leiden in opdracht van Dr. Kosters";
-	cout << " voor het vak Programmeermethode. Inleverdatum 16-11-2012.";
+	cout << endl << endl << "Dit programma is gemaakt door XXX ";
+	cout << "(studentnummer XXX) en XXX (studentnummer";
+	cout << " XXX) aan de universiteit Leiden in opdracht van XXX";
+	cout << " voor het vak Programmeermethode. Inleverdatum XXX.";
 	cout << "\n\nHOOFDMENU" << endl << "Om het hoofdmenu te gebruiken ";
 	cout << "kies een van de letters tussen haakjes om";
 	cout << " die optie van het menu te kiezen.\nAlleen het eerste karakter ";
