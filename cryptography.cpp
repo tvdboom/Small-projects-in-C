@@ -1,4 +1,3 @@
-// Programmeer methode Robbie Brooijmans en Marco Trueba van den Boom. Gebruikte
 // compiler: Bloodshed Dev-C++ 4.9.9.2
 // Codeert en decodeert bestanden
 
