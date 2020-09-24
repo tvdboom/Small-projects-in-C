@@ -1,4 +1,3 @@
-// Programmeer methode Marco Trueba van den Boom
 // Gebruikte compiler: Bloodshed Dev-C++ 4.9.9.2
 // Datum: 7/12/2012
 // Dit programma stelt u in staat met grote getallen te werken
